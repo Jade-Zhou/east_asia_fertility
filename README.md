@@ -1,4 +1,4 @@
-# More educated Women, Lower fertility rate? An analysis into the relationship between fertility decline and female education in Southeast Asia
+# More educated Women, Lower fertility rate? An analysis into the relationship between female literacy and fertility rate in Southeast Asia
 
 ## Jue Zhou
 
