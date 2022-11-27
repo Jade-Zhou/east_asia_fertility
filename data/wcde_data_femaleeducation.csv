@@ -1,0 +1,502 @@
+Source: Wittgenstein Centre for Demography and Global Human Capital (2018). Wittgenstein Centre Data Explorer Version 2.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+
+""
+"Educational Attainment Distribution by Broad Age"
+"De facto population by level of educational attainment in a country or region, classified by sex and by broad age groups. Available in all scenarios and at all geographical scales. Figures are expressed as a percentage."
+"Medium (SSP2)"
+" "
+"Area","Year","Age","Sex","Education","Distribution"
+"Indonesia",1950,"20--39","Female","Under 15",0
+"Indonesia",1955,"20--39","Female","Under 15",0
+"Indonesia",1960,"20--39","Female","Under 15",0
+"Indonesia",1965,"20--39","Female","Under 15",0
+"Indonesia",1970,"20--39","Female","Under 15",0
+"Indonesia",1975,"20--39","Female","Under 15",0
+"Indonesia",1980,"20--39","Female","Under 15",0
+"Indonesia",1985,"20--39","Female","Under 15",0
+"Indonesia",1990,"20--39","Female","Under 15",0
+"Indonesia",1995,"20--39","Female","Under 15",0
+"Indonesia",2000,"20--39","Female","Under 15",0
+"Indonesia",2005,"20--39","Female","Under 15",0
+"Indonesia",2010,"20--39","Female","Under 15",0
+"Indonesia",2015,"20--39","Female","Under 15",0
+"Malaysia",1950,"20--39","Female","Under 15",0
+"Malaysia",1955,"20--39","Female","Under 15",0
+"Malaysia",1960,"20--39","Female","Under 15",0
+"Malaysia",1965,"20--39","Female","Under 15",0
+"Malaysia",1970,"20--39","Female","Under 15",0
+"Malaysia",1975,"20--39","Female","Under 15",0
+"Malaysia",1980,"20--39","Female","Under 15",0
+"Malaysia",1985,"20--39","Female","Under 15",0
+"Malaysia",1990,"20--39","Female","Under 15",0
+"Malaysia",1995,"20--39","Female","Under 15",0
+"Malaysia",2000,"20--39","Female","Under 15",0
+"Malaysia",2005,"20--39","Female","Under 15",0
+"Malaysia",2010,"20--39","Female","Under 15",0
+"Malaysia",2015,"20--39","Female","Under 15",0
+"Philippines",1950,"20--39","Female","Under 15",0
+"Philippines",1955,"20--39","Female","Under 15",0
+"Philippines",1960,"20--39","Female","Under 15",0
+"Philippines",1965,"20--39","Female","Under 15",0
+"Philippines",1970,"20--39","Female","Under 15",0
+"Philippines",1975,"20--39","Female","Under 15",0
+"Philippines",1980,"20--39","Female","Under 15",0
+"Philippines",1985,"20--39","Female","Under 15",0
+"Philippines",1990,"20--39","Female","Under 15",0
+"Philippines",1995,"20--39","Female","Under 15",0
+"Philippines",2000,"20--39","Female","Under 15",0
+"Philippines",2005,"20--39","Female","Under 15",0
+"Philippines",2010,"20--39","Female","Under 15",0
+"Philippines",2015,"20--39","Female","Under 15",0
+"Thailand",1950,"20--39","Female","Under 15",0
+"Thailand",1955,"20--39","Female","Under 15",0
+"Thailand",1960,"20--39","Female","Under 15",0
+"Thailand",1965,"20--39","Female","Under 15",0
+"Thailand",1970,"20--39","Female","Under 15",0
+"Thailand",1975,"20--39","Female","Under 15",0
+"Thailand",1980,"20--39","Female","Under 15",0
+"Thailand",1985,"20--39","Female","Under 15",0
+"Thailand",1990,"20--39","Female","Under 15",0
+"Thailand",1995,"20--39","Female","Under 15",0
+"Thailand",2000,"20--39","Female","Under 15",0
+"Thailand",2005,"20--39","Female","Under 15",0
+"Thailand",2010,"20--39","Female","Under 15",0
+"Thailand",2015,"20--39","Female","Under 15",0
+"Viet Nam",1950,"20--39","Female","Under 15",0
+"Viet Nam",1955,"20--39","Female","Under 15",0
+"Viet Nam",1960,"20--39","Female","Under 15",0
+"Viet Nam",1965,"20--39","Female","Under 15",0
+"Viet Nam",1970,"20--39","Female","Under 15",0
+"Viet Nam",1975,"20--39","Female","Under 15",0
+"Viet Nam",1980,"20--39","Female","Under 15",0
+"Viet Nam",1985,"20--39","Female","Under 15",0
+"Viet Nam",1990,"20--39","Female","Under 15",0
+"Viet Nam",1995,"20--39","Female","Under 15",0
+"Viet Nam",2000,"20--39","Female","Under 15",0
+"Viet Nam",2005,"20--39","Female","Under 15",0
+"Viet Nam",2010,"20--39","Female","Under 15",0
+"Viet Nam",2015,"20--39","Female","Under 15",0
+"Indonesia",1950,"20--39","Female","No Education",59.6
+"Indonesia",1955,"20--39","Female","No Education",53.9
+"Indonesia",1960,"20--39","Female","No Education",50.3
+"Indonesia",1965,"20--39","Female","No Education",45.7
+"Indonesia",1970,"20--39","Female","No Education",39.9
+"Indonesia",1975,"20--39","Female","No Education",32.4
+"Indonesia",1980,"20--39","Female","No Education",24.7
+"Indonesia",1985,"20--39","Female","No Education",18.5
+"Indonesia",1990,"20--39","Female","No Education",13.6
+"Indonesia",1995,"20--39","Female","No Education",9.9
+"Indonesia",2000,"20--39","Female","No Education",6.7
+"Indonesia",2005,"20--39","Female","No Education",4.4
+"Indonesia",2010,"20--39","Female","No Education",3
+"Indonesia",2015,"20--39","Female","No Education",2.1
+"Malaysia",1950,"20--39","Female","No Education",80
+"Malaysia",1955,"20--39","Female","No Education",73.6
+"Malaysia",1960,"20--39","Female","No Education",64.9
+"Malaysia",1965,"20--39","Female","No Education",54.8
+"Malaysia",1970,"20--39","Female","No Education",42.4
+"Malaysia",1975,"20--39","Female","No Education",30.4
+"Malaysia",1980,"20--39","Female","No Education",20.9
+"Malaysia",1985,"20--39","Female","No Education",14.8
+"Malaysia",1990,"20--39","Female","No Education",10.8
+"Malaysia",1995,"20--39","Female","No Education",8.2
+"Malaysia",2000,"20--39","Female","No Education",6.1
+"Malaysia",2005,"20--39","Female","No Education",4.2
+"Malaysia",2010,"20--39","Female","No Education",3
+"Malaysia",2015,"20--39","Female","No Education",2.1
+"Philippines",1950,"20--39","Female","No Education",19.8
+"Philippines",1955,"20--39","Female","No Education",15.1
+"Philippines",1960,"20--39","Female","No Education",11.4
+"Philippines",1965,"20--39","Female","No Education",8.5
+"Philippines",1970,"20--39","Female","No Education",6.5
+"Philippines",1975,"20--39","Female","No Education",4.8
+"Philippines",1980,"20--39","Female","No Education",3.8
+"Philippines",1985,"20--39","Female","No Education",3.2
+"Philippines",1990,"20--39","Female","No Education",2.8
+"Philippines",1995,"20--39","Female","No Education",2.4
+"Philippines",2000,"20--39","Female","No Education",2.1
+"Philippines",2005,"20--39","Female","No Education",1.7
+"Philippines",2010,"20--39","Female","No Education",1.4
+"Philippines",2015,"20--39","Female","No Education",1
+"Thailand",1950,"20--39","Female","No Education",50.4
+"Thailand",1955,"20--39","Female","No Education",38.3
+"Thailand",1960,"20--39","Female","No Education",27
+"Thailand",1965,"20--39","Female","No Education",17.8
+"Thailand",1970,"20--39","Female","No Education",11
+"Thailand",1975,"20--39","Female","No Education",6.4
+"Thailand",1980,"20--39","Female","No Education",4.2
+"Thailand",1985,"20--39","Female","No Education",3.3
+"Thailand",1990,"20--39","Female","No Education",2.6
+"Thailand",1995,"20--39","Female","No Education",2
+"Thailand",2000,"20--39","Female","No Education",1.8
+"Thailand",2005,"20--39","Female","No Education",1.9
+"Thailand",2010,"20--39","Female","No Education",2.4
+"Thailand",2015,"20--39","Female","No Education",1.8
+"Viet Nam",1950,"20--39","Female","No Education",51.2
+"Viet Nam",1955,"20--39","Female","No Education",41.3
+"Viet Nam",1960,"20--39","Female","No Education",33.7
+"Viet Nam",1965,"20--39","Female","No Education",26.4
+"Viet Nam",1970,"20--39","Female","No Education",19.6
+"Viet Nam",1975,"20--39","Female","No Education",13.5
+"Viet Nam",1980,"20--39","Female","No Education",9.6
+"Viet Nam",1985,"20--39","Female","No Education",7.4
+"Viet Nam",1990,"20--39","Female","No Education",6.3
+"Viet Nam",1995,"20--39","Female","No Education",5.8
+"Viet Nam",2000,"20--39","Female","No Education",5.6
+"Viet Nam",2005,"20--39","Female","No Education",5.5
+"Viet Nam",2010,"20--39","Female","No Education",5.1
+"Viet Nam",2015,"20--39","Female","No Education",4.1
+"Indonesia",1950,"20--39","Female","Incomplete Primary",20.6
+"Indonesia",1955,"20--39","Female","Incomplete Primary",21.9
+"Indonesia",1960,"20--39","Female","Incomplete Primary",21.7
+"Indonesia",1965,"20--39","Female","Incomplete Primary",21
+"Indonesia",1970,"20--39","Female","Incomplete Primary",19.9
+"Indonesia",1975,"20--39","Female","Incomplete Primary",18.3
+"Indonesia",1980,"20--39","Female","Incomplete Primary",16.4
+"Indonesia",1985,"20--39","Female","Incomplete Primary",14.2
+"Indonesia",1990,"20--39","Female","Incomplete Primary",11.8
+"Indonesia",1995,"20--39","Female","Incomplete Primary",9.3
+"Indonesia",2000,"20--39","Female","Incomplete Primary",7
+"Indonesia",2005,"20--39","Female","Incomplete Primary",5.1
+"Indonesia",2010,"20--39","Female","Incomplete Primary",3.8
+"Indonesia",2015,"20--39","Female","Incomplete Primary",2.8
+"Malaysia",1950,"20--39","Female","Incomplete Primary",12.9
+"Malaysia",1955,"20--39","Female","Incomplete Primary",16.3
+"Malaysia",1960,"20--39","Female","Incomplete Primary",19.7
+"Malaysia",1965,"20--39","Female","Incomplete Primary",21.9
+"Malaysia",1970,"20--39","Female","Incomplete Primary",21.7
+"Malaysia",1975,"20--39","Female","Incomplete Primary",19.5
+"Malaysia",1980,"20--39","Female","Incomplete Primary",16
+"Malaysia",1985,"20--39","Female","Incomplete Primary",12.2
+"Malaysia",1990,"20--39","Female","Incomplete Primary",9.1
+"Malaysia",1995,"20--39","Female","Incomplete Primary",6.9
+"Malaysia",2000,"20--39","Female","Incomplete Primary",5.2
+"Malaysia",2005,"20--39","Female","Incomplete Primary",3.9
+"Malaysia",2010,"20--39","Female","Incomplete Primary",3
+"Malaysia",2015,"20--39","Female","Incomplete Primary",2.2
+"Philippines",1950,"20--39","Female","Incomplete Primary",42.7
+"Philippines",1955,"20--39","Female","Incomplete Primary",40.8
+"Philippines",1960,"20--39","Female","Incomplete Primary",37.2
+"Philippines",1965,"20--39","Female","Incomplete Primary",32.8
+"Philippines",1970,"20--39","Female","Incomplete Primary",27.9
+"Philippines",1975,"20--39","Female","Incomplete Primary",22.7
+"Philippines",1980,"20--39","Female","Incomplete Primary",18.5
+"Philippines",1985,"20--39","Female","Incomplete Primary",15.2
+"Philippines",1990,"20--39","Female","Incomplete Primary",12.7
+"Philippines",1995,"20--39","Female","Incomplete Primary",10.7
+"Philippines",2000,"20--39","Female","Incomplete Primary",9.1
+"Philippines",2005,"20--39","Female","Incomplete Primary",7.6
+"Philippines",2010,"20--39","Female","Incomplete Primary",6.1
+"Philippines",2015,"20--39","Female","Incomplete Primary",4.6
+"Thailand",1950,"20--39","Female","Incomplete Primary",8.8
+"Thailand",1955,"20--39","Female","Incomplete Primary",8.9
+"Thailand",1960,"20--39","Female","Incomplete Primary",7.9
+"Thailand",1965,"20--39","Female","Incomplete Primary",6.4
+"Thailand",1970,"20--39","Female","Incomplete Primary",4.6
+"Thailand",1975,"20--39","Female","Incomplete Primary",3.2
+"Thailand",1980,"20--39","Female","Incomplete Primary",2.3
+"Thailand",1985,"20--39","Female","Incomplete Primary",1.7
+"Thailand",1990,"20--39","Female","Incomplete Primary",1.6
+"Thailand",1995,"20--39","Female","Incomplete Primary",2.8
+"Thailand",2000,"20--39","Female","Incomplete Primary",3.3
+"Thailand",2005,"20--39","Female","Incomplete Primary",3.6
+"Thailand",2010,"20--39","Female","Incomplete Primary",3.6
+"Thailand",2015,"20--39","Female","Incomplete Primary",2.6
+"Viet Nam",1950,"20--39","Female","Incomplete Primary",41.3
+"Viet Nam",1955,"20--39","Female","Incomplete Primary",47.5
+"Viet Nam",1960,"20--39","Female","Incomplete Primary",50.7
+"Viet Nam",1965,"20--39","Female","Incomplete Primary",51.2
+"Viet Nam",1970,"20--39","Female","Incomplete Primary",47.5
+"Viet Nam",1975,"20--39","Female","Incomplete Primary",39.6
+"Viet Nam",1980,"20--39","Female","Incomplete Primary",31.1
+"Viet Nam",1985,"20--39","Female","Incomplete Primary",24.5
+"Viet Nam",1990,"20--39","Female","Incomplete Primary",20.2
+"Viet Nam",1995,"20--39","Female","Incomplete Primary",16.9
+"Viet Nam",2000,"20--39","Female","Incomplete Primary",14.5
+"Viet Nam",2005,"20--39","Female","Incomplete Primary",12.7
+"Viet Nam",2010,"20--39","Female","Incomplete Primary",10.6
+"Viet Nam",2015,"20--39","Female","Incomplete Primary",8
+"Indonesia",1950,"20--39","Female","Primary",17.2
+"Indonesia",1955,"20--39","Female","Primary",20.8
+"Indonesia",1960,"20--39","Female","Primary",23.3
+"Indonesia",1965,"20--39","Female","Primary",26.7
+"Indonesia",1970,"20--39","Female","Primary",30.7
+"Indonesia",1975,"20--39","Female","Primary",35.8
+"Indonesia",1980,"20--39","Female","Primary",41
+"Indonesia",1985,"20--39","Female","Primary",44.2
+"Indonesia",1990,"20--39","Female","Primary",44.5
+"Indonesia",1995,"20--39","Female","Primary",43.1
+"Indonesia",2000,"20--39","Female","Primary",40.3
+"Indonesia",2005,"20--39","Female","Primary",35.8
+"Indonesia",2010,"20--39","Female","Primary",31
+"Indonesia",2015,"20--39","Female","Primary",25.9
+"Malaysia",1950,"20--39","Female","Primary",4.6
+"Malaysia",1955,"20--39","Female","Primary",6.2
+"Malaysia",1960,"20--39","Female","Primary",9.3
+"Malaysia",1965,"20--39","Female","Primary",13.5
+"Malaysia",1970,"20--39","Female","Primary",19.7
+"Malaysia",1975,"20--39","Female","Primary",24.3
+"Malaysia",1980,"20--39","Female","Primary",26
+"Malaysia",1985,"20--39","Female","Primary",23.7
+"Malaysia",1990,"20--39","Female","Primary",19.5
+"Malaysia",1995,"20--39","Female","Primary",14.6
+"Malaysia",2000,"20--39","Female","Primary",10
+"Malaysia",2005,"20--39","Female","Primary",6.5
+"Malaysia",2010,"20--39","Female","Primary",4.3
+"Malaysia",2015,"20--39","Female","Primary",2.9
+"Philippines",1950,"20--39","Female","Primary",23.1
+"Philippines",1955,"20--39","Female","Primary",26.4
+"Philippines",1960,"20--39","Female","Primary",30.4
+"Philippines",1965,"20--39","Female","Primary",34
+"Philippines",1970,"20--39","Female","Primary",35.9
+"Philippines",1975,"20--39","Female","Primary",36.2
+"Philippines",1980,"20--39","Female","Primary",35
+"Philippines",1985,"20--39","Female","Primary",32.5
+"Philippines",1990,"20--39","Female","Primary",29.8
+"Philippines",1995,"20--39","Female","Primary",26.7
+"Philippines",2000,"20--39","Female","Primary",23.5
+"Philippines",2005,"20--39","Female","Primary",20
+"Philippines",2010,"20--39","Female","Primary",16.5
+"Philippines",2015,"20--39","Female","Primary",12.8
+"Thailand",1950,"20--39","Female","Primary",38.6
+"Thailand",1955,"20--39","Female","Primary",49.9
+"Thailand",1960,"20--39","Female","Primary",60.8
+"Thailand",1965,"20--39","Female","Primary",69.2
+"Thailand",1970,"20--39","Female","Primary",74.7
+"Thailand",1975,"20--39","Female","Primary",76.3
+"Thailand",1980,"20--39","Female","Primary",73.6
+"Thailand",1985,"20--39","Female","Primary",69
+"Thailand",1990,"20--39","Female","Primary",63.3
+"Thailand",1995,"20--39","Female","Primary",54.2
+"Thailand",2000,"20--39","Female","Primary",44.6
+"Thailand",2005,"20--39","Female","Primary",32.9
+"Thailand",2010,"20--39","Female","Primary",22.2
+"Thailand",2015,"20--39","Female","Primary",14.9
+"Viet Nam",1950,"20--39","Female","Primary",6.5
+"Viet Nam",1955,"20--39","Female","Primary",9.5
+"Viet Nam",1960,"20--39","Female","Primary",12.7
+"Viet Nam",1965,"20--39","Female","Primary",16.5
+"Viet Nam",1970,"20--39","Female","Primary",20.8
+"Viet Nam",1975,"20--39","Female","Primary",24.7
+"Viet Nam",1980,"20--39","Female","Primary",27
+"Viet Nam",1985,"20--39","Female","Primary",28.1
+"Viet Nam",1990,"20--39","Female","Primary",28.8
+"Viet Nam",1995,"20--39","Female","Primary",29.6
+"Viet Nam",2000,"20--39","Female","Primary",31.1
+"Viet Nam",2005,"20--39","Female","Primary",31.4
+"Viet Nam",2010,"20--39","Female","Primary",29.5
+"Viet Nam",2015,"20--39","Female","Primary",25.9
+"Indonesia",1950,"20--39","Female","Lower Secondary",1.9
+"Indonesia",1955,"20--39","Female","Lower Secondary",2.5
+"Indonesia",1960,"20--39","Female","Lower Secondary",3.4
+"Indonesia",1965,"20--39","Female","Lower Secondary",4.6
+"Indonesia",1970,"20--39","Female","Lower Secondary",6.1
+"Indonesia",1975,"20--39","Female","Lower Secondary",8.3
+"Indonesia",1980,"20--39","Female","Lower Secondary",10.1
+"Indonesia",1985,"20--39","Female","Lower Secondary",12
+"Indonesia",1990,"20--39","Female","Lower Secondary",14.5
+"Indonesia",1995,"20--39","Female","Lower Secondary",16.4
+"Indonesia",2000,"20--39","Female","Lower Secondary",17.9
+"Indonesia",2005,"20--39","Female","Lower Secondary",19.7
+"Indonesia",2010,"20--39","Female","Lower Secondary",21.2
+"Indonesia",2015,"20--39","Female","Lower Secondary",21.5
+"Malaysia",1950,"20--39","Female","Lower Secondary",1.8
+"Malaysia",1955,"20--39","Female","Lower Secondary",2.7
+"Malaysia",1960,"20--39","Female","Lower Secondary",4.2
+"Malaysia",1965,"20--39","Female","Lower Secondary",6.2
+"Malaysia",1970,"20--39","Female","Lower Secondary",9.4
+"Malaysia",1975,"20--39","Female","Lower Secondary",13.6
+"Malaysia",1980,"20--39","Female","Lower Secondary",17.3
+"Malaysia",1985,"20--39","Female","Lower Secondary",20.7
+"Malaysia",1990,"20--39","Female","Lower Secondary",22.8
+"Malaysia",1995,"20--39","Female","Lower Secondary",23.3
+"Malaysia",2000,"20--39","Female","Lower Secondary",22.3
+"Malaysia",2005,"20--39","Female","Lower Secondary",20.7
+"Malaysia",2010,"20--39","Female","Lower Secondary",18.3
+"Malaysia",2015,"20--39","Female","Lower Secondary",15.8
+"Philippines",1950,"20--39","Female","Lower Secondary",4.9
+"Philippines",1955,"20--39","Female","Lower Secondary",5.6
+"Philippines",1960,"20--39","Female","Lower Secondary",5.7
+"Philippines",1965,"20--39","Female","Lower Secondary",6
+"Philippines",1970,"20--39","Female","Lower Secondary",7.1
+"Philippines",1975,"20--39","Female","Lower Secondary",8.3
+"Philippines",1980,"20--39","Female","Lower Secondary",7.8
+"Philippines",1985,"20--39","Female","Lower Secondary",7
+"Philippines",1990,"20--39","Female","Lower Secondary",5.9
+"Philippines",1995,"20--39","Female","Lower Secondary",5.1
+"Philippines",2000,"20--39","Female","Lower Secondary",4.2
+"Philippines",2005,"20--39","Female","Lower Secondary",4.3
+"Philippines",2010,"20--39","Female","Lower Secondary",4.3
+"Philippines",2015,"20--39","Female","Lower Secondary",4.4
+"Thailand",1950,"20--39","Female","Lower Secondary",1.6
+"Thailand",1955,"20--39","Female","Lower Secondary",2
+"Thailand",1960,"20--39","Female","Lower Secondary",3
+"Thailand",1965,"20--39","Female","Lower Secondary",4.1
+"Thailand",1970,"20--39","Female","Lower Secondary",5.1
+"Thailand",1975,"20--39","Female","Lower Secondary",6.5
+"Thailand",1980,"20--39","Female","Lower Secondary",8.1
+"Thailand",1985,"20--39","Female","Lower Secondary",8.6
+"Thailand",1990,"20--39","Female","Lower Secondary",9
+"Thailand",1995,"20--39","Female","Lower Secondary",10.2
+"Thailand",2000,"20--39","Female","Lower Secondary",12.1
+"Thailand",2005,"20--39","Female","Lower Secondary",14.8
+"Thailand",2010,"20--39","Female","Lower Secondary",15.7
+"Thailand",2015,"20--39","Female","Lower Secondary",15.1
+"Viet Nam",1950,"20--39","Female","Lower Secondary",0.9
+"Viet Nam",1955,"20--39","Female","Lower Secondary",1.5
+"Viet Nam",1960,"20--39","Female","Lower Secondary",2.6
+"Viet Nam",1965,"20--39","Female","Lower Secondary",5.1
+"Viet Nam",1970,"20--39","Female","Lower Secondary",10.3
+"Viet Nam",1975,"20--39","Female","Lower Secondary",18.3
+"Viet Nam",1980,"20--39","Female","Lower Secondary",25.2
+"Viet Nam",1985,"20--39","Female","Lower Secondary",29.8
+"Viet Nam",1990,"20--39","Female","Lower Secondary",32.1
+"Viet Nam",1995,"20--39","Female","Lower Secondary",33.2
+"Viet Nam",2000,"20--39","Female","Lower Secondary",32.5
+"Viet Nam",2005,"20--39","Female","Lower Secondary",31.2
+"Viet Nam",2010,"20--39","Female","Lower Secondary",31.3
+"Viet Nam",2015,"20--39","Female","Lower Secondary",33.3
+"Indonesia",1950,"20--39","Female","Upper Secondary",0.7
+"Indonesia",1955,"20--39","Female","Upper Secondary",0.9
+"Indonesia",1960,"20--39","Female","Upper Secondary",1.2
+"Indonesia",1965,"20--39","Female","Upper Secondary",1.9
+"Indonesia",1970,"20--39","Female","Upper Secondary",3.1
+"Indonesia",1975,"20--39","Female","Upper Secondary",4.7
+"Indonesia",1980,"20--39","Female","Upper Secondary",6.9
+"Indonesia",1985,"20--39","Female","Upper Secondary",9.4
+"Indonesia",1990,"20--39","Female","Upper Secondary",12.8
+"Indonesia",1995,"20--39","Female","Upper Secondary",16.8
+"Indonesia",2000,"20--39","Female","Upper Secondary",21.7
+"Indonesia",2005,"20--39","Female","Upper Secondary",27.1
+"Indonesia",2010,"20--39","Female","Upper Secondary",31.5
+"Indonesia",2015,"20--39","Female","Upper Secondary",35.1
+"Malaysia",1950,"20--39","Female","Upper Secondary",0.6
+"Malaysia",1955,"20--39","Female","Upper Secondary",1
+"Malaysia",1960,"20--39","Female","Upper Secondary",1.7
+"Malaysia",1965,"20--39","Female","Upper Secondary",3.2
+"Malaysia",1970,"20--39","Female","Upper Secondary",6
+"Malaysia",1975,"20--39","Female","Upper Secondary",10.5
+"Malaysia",1980,"20--39","Female","Upper Secondary",16.5
+"Malaysia",1985,"20--39","Female","Upper Secondary",23.3
+"Malaysia",1990,"20--39","Female","Upper Secondary",30.1
+"Malaysia",1995,"20--39","Female","Upper Secondary",36.4
+"Malaysia",2000,"20--39","Female","Upper Secondary",41.3
+"Malaysia",2005,"20--39","Female","Upper Secondary",45.5
+"Malaysia",2010,"20--39","Female","Upper Secondary",48.9
+"Malaysia",2015,"20--39","Female","Upper Secondary",52
+"Philippines",1950,"20--39","Female","Upper Secondary",7.6
+"Philippines",1955,"20--39","Female","Upper Secondary",9.3
+"Philippines",1960,"20--39","Female","Upper Secondary",11.7
+"Philippines",1965,"20--39","Female","Upper Secondary",14.2
+"Philippines",1970,"20--39","Female","Upper Secondary",17.4
+"Philippines",1975,"20--39","Female","Upper Secondary",21.2
+"Philippines",1980,"20--39","Female","Upper Secondary",26
+"Philippines",1985,"20--39","Female","Upper Secondary",30.7
+"Philippines",1990,"20--39","Female","Upper Secondary",35.6
+"Philippines",1995,"20--39","Female","Upper Secondary",40.6
+"Philippines",2000,"20--39","Female","Upper Secondary",45.8
+"Philippines",2005,"20--39","Female","Upper Secondary",48.4
+"Philippines",2010,"20--39","Female","Upper Secondary",50.5
+"Philippines",2015,"20--39","Female","Upper Secondary",52.8
+"Thailand",1950,"20--39","Female","Upper Secondary",0.5
+"Thailand",1955,"20--39","Female","Upper Secondary",0.7
+"Thailand",1960,"20--39","Female","Upper Secondary",1
+"Thailand",1965,"20--39","Female","Upper Secondary",2.1
+"Thailand",1970,"20--39","Female","Upper Secondary",3.6
+"Thailand",1975,"20--39","Female","Upper Secondary",5.7
+"Thailand",1980,"20--39","Female","Upper Secondary",8.7
+"Thailand",1985,"20--39","Female","Upper Secondary",12.5
+"Thailand",1990,"20--39","Female","Upper Secondary",15.9
+"Thailand",1995,"20--39","Female","Upper Secondary",19.2
+"Thailand",2000,"20--39","Female","Upper Secondary",23.3
+"Thailand",2005,"20--39","Female","Upper Secondary",28.6
+"Thailand",2010,"20--39","Female","Upper Secondary",33.8
+"Thailand",2015,"20--39","Female","Upper Secondary",38.6
+"Viet Nam",1950,"20--39","Female","Upper Secondary",0.1
+"Viet Nam",1955,"20--39","Female","Upper Secondary",0.2
+"Viet Nam",1960,"20--39","Female","Upper Secondary",0.4
+"Viet Nam",1965,"20--39","Female","Upper Secondary",0.7
+"Viet Nam",1970,"20--39","Female","Upper Secondary",1.5
+"Viet Nam",1975,"20--39","Female","Upper Secondary",3.1
+"Viet Nam",1980,"20--39","Female","Upper Secondary",5.2
+"Viet Nam",1985,"20--39","Female","Upper Secondary",7
+"Viet Nam",1990,"20--39","Female","Upper Secondary",8.2
+"Viet Nam",1995,"20--39","Female","Upper Secondary",9.4
+"Viet Nam",2000,"20--39","Female","Upper Secondary",10
+"Viet Nam",2005,"20--39","Female","Upper Secondary",11.9
+"Viet Nam",2010,"20--39","Female","Upper Secondary",14.2
+"Viet Nam",2015,"20--39","Female","Upper Secondary",16.7
+"Indonesia",1950,"20--39","Female","Post Secondary",0.1
+"Indonesia",1955,"20--39","Female","Post Secondary",0.1
+"Indonesia",1960,"20--39","Female","Post Secondary",0.1
+"Indonesia",1965,"20--39","Female","Post Secondary",0.1
+"Indonesia",1970,"20--39","Female","Post Secondary",0.3
+"Indonesia",1975,"20--39","Female","Post Secondary",0.5
+"Indonesia",1980,"20--39","Female","Post Secondary",0.9
+"Indonesia",1985,"20--39","Female","Post Secondary",1.5
+"Indonesia",1990,"20--39","Female","Post Secondary",2.7
+"Indonesia",1995,"20--39","Female","Post Secondary",4.6
+"Indonesia",2000,"20--39","Female","Post Secondary",6.5
+"Indonesia",2005,"20--39","Female","Post Secondary",8
+"Indonesia",2010,"20--39","Female","Post Secondary",9.6
+"Indonesia",2015,"20--39","Female","Post Secondary",12.6
+"Malaysia",1950,"20--39","Female","Post Secondary",0.1
+"Malaysia",1955,"20--39","Female","Post Secondary",0.1
+"Malaysia",1960,"20--39","Female","Post Secondary",0.2
+"Malaysia",1965,"20--39","Female","Post Secondary",0.3
+"Malaysia",1970,"20--39","Female","Post Secondary",0.8
+"Malaysia",1975,"20--39","Female","Post Secondary",1.7
+"Malaysia",1980,"20--39","Female","Post Secondary",3.2
+"Malaysia",1985,"20--39","Female","Post Secondary",5.3
+"Malaysia",1990,"20--39","Female","Post Secondary",7.6
+"Malaysia",1995,"20--39","Female","Post Secondary",10.6
+"Malaysia",2000,"20--39","Female","Post Secondary",15.1
+"Malaysia",2005,"20--39","Female","Post Secondary",19.3
+"Malaysia",2010,"20--39","Female","Post Secondary",22.5
+"Malaysia",2015,"20--39","Female","Post Secondary",25.1
+"Philippines",1950,"20--39","Female","Post Secondary",1.9
+"Philippines",1955,"20--39","Female","Post Secondary",2.9
+"Philippines",1960,"20--39","Female","Post Secondary",3.7
+"Philippines",1965,"20--39","Female","Post Secondary",4.4
+"Philippines",1970,"20--39","Female","Post Secondary",5.3
+"Philippines",1975,"20--39","Female","Post Secondary",6.7
+"Philippines",1980,"20--39","Female","Post Secondary",8.9
+"Philippines",1985,"20--39","Female","Post Secondary",11.5
+"Philippines",1990,"20--39","Female","Post Secondary",13.2
+"Philippines",1995,"20--39","Female","Post Secondary",14.5
+"Philippines",2000,"20--39","Female","Post Secondary",15.4
+"Philippines",2005,"20--39","Female","Post Secondary",18
+"Philippines",2010,"20--39","Female","Post Secondary",21.2
+"Philippines",2015,"20--39","Female","Post Secondary",24.4
+"Thailand",1950,"20--39","Female","Post Secondary",0.1
+"Thailand",1955,"20--39","Female","Post Secondary",0.2
+"Thailand",1960,"20--39","Female","Post Secondary",0.3
+"Thailand",1965,"20--39","Female","Post Secondary",0.5
+"Thailand",1970,"20--39","Female","Post Secondary",1
+"Thailand",1975,"20--39","Female","Post Secondary",1.8
+"Thailand",1980,"20--39","Female","Post Secondary",3.1
+"Thailand",1985,"20--39","Female","Post Secondary",4.8
+"Thailand",1990,"20--39","Female","Post Secondary",7.6
+"Thailand",1995,"20--39","Female","Post Secondary",11.6
+"Thailand",2000,"20--39","Female","Post Secondary",14.9
+"Thailand",2005,"20--39","Female","Post Secondary",18.1
+"Thailand",2010,"20--39","Female","Post Secondary",22.3
+"Thailand",2015,"20--39","Female","Post Secondary",26.9
+"Viet Nam",1950,"20--39","Female","Post Secondary",0
+"Viet Nam",1955,"20--39","Female","Post Secondary",0
+"Viet Nam",1960,"20--39","Female","Post Secondary",0
+"Viet Nam",1965,"20--39","Female","Post Secondary",0.1
+"Viet Nam",1970,"20--39","Female","Post Secondary",0.3
+"Viet Nam",1975,"20--39","Female","Post Secondary",0.8
+"Viet Nam",1980,"20--39","Female","Post Secondary",1.8
+"Viet Nam",1985,"20--39","Female","Post Secondary",3.2
+"Viet Nam",1990,"20--39","Female","Post Secondary",4.3
+"Viet Nam",1995,"20--39","Female","Post Secondary",5.1
+"Viet Nam",2000,"20--39","Female","Post Secondary",6.2
+"Viet Nam",2005,"20--39","Female","Post Secondary",7.4
+"Viet Nam",2010,"20--39","Female","Post Secondary",9.2
+"Viet Nam",2015,"20--39","Female","Post Secondary",11.9
+"Indonesia",2015,"20--39","Female","Short Post Secondary",4.2
+"Indonesia",2015,"20--39","Female","Bachelor",8
+"Indonesia",2015,"20--39","Female","Master and higher",0.4

@@ -1,0 +1,79 @@
+Source: Wittgenstein Centre for Demography and Global Human Capital (2018). Wittgenstein Centre Data Explorer Version 2.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+
+""
+"Total Fertility Rate"
+"The average number of children born in a period to the women of reproductive age (15-49). Available in all scenarios, and at all geographical scales. It is expressed as children per woman. <br><br> Source for 1950 to 2015: <a href=""http://esa.un.org/wpp/documentation/WPP%202010%20publications.htm"">UN Population Division, World Population Prospects 2017</a>"
+"Medium (SSP2)"
+" "
+"Area","Period","Rate"
+"Indonesia","1950-1955",5.49
+"Indonesia","1955-1960",5.67
+"Indonesia","1960-1965",5.62
+"Indonesia","1965-1970",5.57
+"Indonesia","1970-1975",5.3
+"Indonesia","1975-1980",4.73
+"Indonesia","1980-1985",4.11
+"Indonesia","1985-1990",3.4
+"Indonesia","1990-1995",2.9
+"Indonesia","1995-2000",2.55
+"Indonesia","2000-2005",2.53
+"Indonesia","2005-2010",2.5
+"Indonesia","2010-2015",2.45
+"Indonesia","2015-2020",2.21
+"Malaysia","1950-1955",6.35
+"Malaysia","1955-1960",6.38
+"Malaysia","1960-1965",6.36
+"Malaysia","1965-1970",5.38
+"Malaysia","1970-1975",4.71
+"Malaysia","1975-1980",4.2
+"Malaysia","1980-1985",3.97
+"Malaysia","1985-1990",3.67
+"Malaysia","1990-1995",3.44
+"Malaysia","1995-2000",3.13
+"Malaysia","2000-2005",2.45
+"Malaysia","2005-2010",2.22
+"Malaysia","2010-2015",2.11
+"Malaysia","2015-2020",2.08
+"Philippines","1950-1955",7.42
+"Philippines","1955-1960",7.27
+"Philippines","1960-1965",6.98
+"Philippines","1965-1970",6.54
+"Philippines","1970-1975",5.98
+"Philippines","1975-1980",5.46
+"Philippines","1980-1985",4.92
+"Philippines","1985-1990",4.53
+"Philippines","1990-1995",4.14
+"Philippines","1995-2000",3.9
+"Philippines","2000-2005",3.7
+"Philippines","2005-2010",3.3
+"Philippines","2010-2015",3.05
+"Philippines","2015-2020",2.77
+"Thailand","1950-1955",6.14
+"Thailand","1955-1960",6.14
+"Thailand","1960-1965",6.13
+"Thailand","1965-1970",5.99
+"Thailand","1970-1975",5.05
+"Thailand","1975-1980",3.91
+"Thailand","1980-1985",2.94
+"Thailand","1985-1990",2.3
+"Thailand","1990-1995",1.99
+"Thailand","1995-2000",1.77
+"Thailand","2000-2005",1.6
+"Thailand","2005-2010",1.56
+"Thailand","2010-2015",1.53
+"Thailand","2015-2020",1.53
+"Viet Nam","1950-1955",5.4
+"Viet Nam","1955-1960",6.16
+"Viet Nam","1960-1965",6.42
+"Viet Nam","1965-1970",6.46
+"Viet Nam","1970-1975",6.33
+"Viet Nam","1975-1980",5.5
+"Viet Nam","1980-1985",4.6
+"Viet Nam","1985-1990",3.85
+"Viet Nam","1990-1995",3.23
+"Viet Nam","1995-2000",2.25
+"Viet Nam","2000-2005",1.92
+"Viet Nam","2005-2010",1.93
+"Viet Nam","2010-2015",1.96
+"Viet Nam","2015-2020",1.85

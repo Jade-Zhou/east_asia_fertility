@@ -1,0 +1,79 @@
+Source: Wittgenstein Centre for Demography and Global Human Capital (2018). Wittgenstein Centre Data Explorer Version 2.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+
+""
+"Sex Ratio"
+"The ratio of males to females in the population by age. Available in all scenarios and at all geographical scales. It is expressed as the number of males per female. <br><br> Data for 1950 to 2015: Based on <a href=""http://esa.un.org/wpp/documentation/WPP%202010%20publications.htm"">UN Population Division, World Population Prospects 2017</a>"
+"Medium (SSP2)"
+" "
+"Area","Year","Age","Ratio"
+"Indonesia",1950,"0--4",0.95
+"Indonesia",1955,"0--4",1.02
+"Indonesia",1960,"0--4",1.03
+"Indonesia",1965,"0--4",1.03
+"Indonesia",1970,"0--4",1.03
+"Indonesia",1975,"0--4",1.03
+"Indonesia",1980,"0--4",1.03
+"Indonesia",1985,"0--4",1.03
+"Indonesia",1990,"0--4",1.04
+"Indonesia",1995,"0--4",1.04
+"Indonesia",2000,"0--4",1.03
+"Indonesia",2005,"0--4",1.05
+"Indonesia",2010,"0--4",1.04
+"Indonesia",2015,"0--4",1.04
+"Malaysia",1950,"0--4",0.99
+"Malaysia",1955,"0--4",1.02
+"Malaysia",1960,"0--4",1.05
+"Malaysia",1965,"0--4",1.05
+"Malaysia",1970,"0--4",1.05
+"Malaysia",1975,"0--4",1.06
+"Malaysia",1980,"0--4",1.05
+"Malaysia",1985,"0--4",1.06
+"Malaysia",1990,"0--4",1.06
+"Malaysia",1995,"0--4",1.06
+"Malaysia",2000,"0--4",1.06
+"Malaysia",2005,"0--4",1.05
+"Malaysia",2010,"0--4",1.06
+"Malaysia",2015,"0--4",1.07
+"Philippines",1950,"0--4",1.07
+"Philippines",1955,"0--4",1.05
+"Philippines",1960,"0--4",1.05
+"Philippines",1965,"0--4",1.05
+"Philippines",1970,"0--4",1.05
+"Philippines",1975,"0--4",1.05
+"Philippines",1980,"0--4",1.05
+"Philippines",1985,"0--4",1.05
+"Philippines",1990,"0--4",1.05
+"Philippines",1995,"0--4",1.05
+"Philippines",2000,"0--4",1.05
+"Philippines",2005,"0--4",1.05
+"Philippines",2010,"0--4",1.05
+"Philippines",2015,"0--4",1.05
+"Thailand",1950,"0--4",1.03
+"Thailand",1955,"0--4",1.03
+"Thailand",1960,"0--4",1.03
+"Thailand",1965,"0--4",1.04
+"Thailand",1970,"0--4",1.04
+"Thailand",1975,"0--4",1.04
+"Thailand",1980,"0--4",1.04
+"Thailand",1985,"0--4",1.04
+"Thailand",1990,"0--4",1.04
+"Thailand",1995,"0--4",1.05
+"Thailand",2000,"0--4",1.06
+"Thailand",2005,"0--4",1.06
+"Thailand",2010,"0--4",1.06
+"Thailand",2015,"0--4",1.06
+"Viet Nam",1950,"0--4",0.99
+"Viet Nam",1955,"0--4",1.04
+"Viet Nam",1960,"0--4",1.04
+"Viet Nam",1965,"0--4",1.04
+"Viet Nam",1970,"0--4",1.04
+"Viet Nam",1975,"0--4",1.04
+"Viet Nam",1980,"0--4",1.04
+"Viet Nam",1985,"0--4",1.04
+"Viet Nam",1990,"0--4",1.04
+"Viet Nam",1995,"0--4",1.05
+"Viet Nam",2000,"0--4",1.05
+"Viet Nam",2005,"0--4",1.06
+"Viet Nam",2010,"0--4",1.1
+"Viet Nam",2015,"0--4",1.11

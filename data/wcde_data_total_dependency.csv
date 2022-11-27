@@ -1,0 +1,135 @@
+Source: Wittgenstein Centre for Demography and Global Human Capital (2018). Wittgenstein Centre Data Explorer Version 2.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+
+""
+"Total Dependency Ratio"
+"The ratio of the youth (0-14) and elderly (65+) population over the working age (15-64) population. Available in all scenarios and at all geographical scales. It is expressed as the number of young and elderly persons per person of working age. <br><br> Source for 1950 to 2015: <a href=""http://esa.un.org/wpp/documentation/WPP%202010%20publications.htm"">UN Population Division, World Population Prospects 2017</a>"
+"Medium (SSP2)"
+" "
+"Area","Year","Ratio"
+"Hong Kong Special Administrative Region of China",1950,0.49
+"Hong Kong Special Administrative Region of China",1955,0.61
+"Hong Kong Special Administrative Region of China",1960,0.77
+"Hong Kong Special Administrative Region of China",1965,0.69
+"Hong Kong Special Administrative Region of China",1970,0.67
+"Hong Kong Special Administrative Region of China",1975,0.56
+"Hong Kong Special Administrative Region of China",1980,0.44
+"Hong Kong Special Administrative Region of China",1985,0.44
+"Hong Kong Special Administrative Region of China",1990,0.42
+"Hong Kong Special Administrative Region of China",1995,0.4
+"Hong Kong Special Administrative Region of China",2000,0.38
+"Hong Kong Special Administrative Region of China",2005,0.36
+"Hong Kong Special Administrative Region of China",2010,0.33
+"Hong Kong Special Administrative Region of China",2015,0.36
+"Indonesia",1950,0.76
+"Indonesia",1955,0.73
+"Indonesia",1960,0.77
+"Indonesia",1965,0.84
+"Indonesia",1970,0.87
+"Indonesia",1975,0.85
+"Indonesia",1980,0.81
+"Indonesia",1985,0.74
+"Indonesia",1990,0.67
+"Indonesia",1995,0.61
+"Indonesia",2000,0.55
+"Indonesia",2005,0.53
+"Indonesia",2010,0.51
+"Indonesia",2015,0.49
+"Malaysia",1950,0.85
+"Malaysia",1955,0.89
+"Malaysia",1960,0.96
+"Malaysia",1965,0.98
+"Malaysia",1970,0.91
+"Malaysia",1975,0.83
+"Malaysia",1980,0.75
+"Malaysia",1985,0.72
+"Malaysia",1990,0.68
+"Malaysia",1995,0.64
+"Malaysia",2000,0.59
+"Malaysia",2005,0.54
+"Malaysia",2010,0.49
+"Malaysia",2015,0.45
+"Philippines",1950,0.89
+"Philippines",1955,0.96
+"Philippines",1960,1
+"Philippines",1965,1.02
+"Philippines",1970,0.96
+"Philippines",1975,0.91
+"Philippines",1980,0.86
+"Philippines",1985,0.82
+"Philippines",1990,0.79
+"Philippines",1995,0.75
+"Philippines",2000,0.72
+"Philippines",2005,0.68
+"Philippines",2010,0.61
+"Philippines",2015,0.58
+"Republic of Korea",1950,0.83
+"Republic of Korea",1955,0.8
+"Republic of Korea",1960,0.86
+"Republic of Korea",1965,0.89
+"Republic of Korea",1970,0.85
+"Republic of Korea",1975,0.73
+"Republic of Korea",1980,0.62
+"Republic of Korea",1985,0.53
+"Republic of Korea",1990,0.44
+"Republic of Korea",1995,0.41
+"Republic of Korea",2000,0.4
+"Republic of Korea",2005,0.39
+"Republic of Korea",2010,0.38
+"Republic of Korea",2015,0.37
+"Singapore",1950,0.75
+"Singapore",1955,0.77
+"Singapore",1960,0.83
+"Singapore",1965,0.86
+"Singapore",1970,0.73
+"Singapore",1975,0.58
+"Singapore",1980,0.47
+"Singapore",1985,0.42
+"Singapore",1990,0.37
+"Singapore",1995,0.4
+"Singapore",2000,0.4
+"Singapore",2005,0.38
+"Singapore",2010,0.36
+"Singapore",2015,0.37
+"Taiwan Province of China",1950,0.79
+"Taiwan Province of China",1955,0.87
+"Taiwan Province of China",1960,0.9
+"Taiwan Province of China",1965,0.86
+"Taiwan Province of China",1970,0.77
+"Taiwan Province of China",1975,0.67
+"Taiwan Province of China",1980,0.57
+"Taiwan Province of China",1985,0.53
+"Taiwan Province of China",1990,0.5
+"Taiwan Province of China",1995,0.46
+"Taiwan Province of China",2000,0.42
+"Taiwan Province of China",2005,0.4
+"Taiwan Province of China",2010,0.37
+"Taiwan Province of China",2015,0.35
+"Thailand",1950,0.83
+"Thailand",1955,0.82
+"Thailand",1960,0.85
+"Thailand",1965,0.89
+"Thailand",1970,0.9
+"Thailand",1975,0.85
+"Thailand",1980,0.76
+"Thailand",1985,0.63
+"Thailand",1990,0.53
+"Thailand",1995,0.49
+"Thailand",2000,0.44
+"Thailand",2005,0.41
+"Thailand",2010,0.39
+"Thailand",2015,0.4
+"Viet Nam",1950,0.56
+"Viet Nam",1955,0.66
+"Viet Nam",1960,0.81
+"Viet Nam",1965,0.95
+"Viet Nam",1970,0.97
+"Viet Nam",1975,0.91
+"Viet Nam",1980,0.86
+"Viet Nam",1985,0.8
+"Viet Nam",1990,0.76
+"Viet Nam",1995,0.71
+"Viet Nam",2000,0.62
+"Viet Nam",2005,0.51
+"Viet Nam",2010,0.43
+"Viet Nam",2015,0.43

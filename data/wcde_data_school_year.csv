@@ -1,0 +1,79 @@
+Source: Wittgenstein Centre for Demography and Global Human Capital (2018). Wittgenstein Centre Data Explorer Version 2.0
+Available at: www.wittgensteincentre.org/dataexplorer 
+
+""
+"Mean Years of Schooling by Broad Age"
+"Mean number of years spent in school, classified by sex and broad age groups. Available in all scenarios and at all geographical scales. It is expressed in years."
+"Medium (SSP2)"
+" "
+"Area","Year","Age","Sex","Years"
+"Indonesia",1950,"20--39","Female",2.04
+"Indonesia",1955,"20--39","Female",2.4
+"Indonesia",1960,"20--39","Female",2.69
+"Indonesia",1965,"20--39","Female",3.1
+"Indonesia",1970,"20--39","Female",3.64
+"Indonesia",1975,"20--39","Female",4.36
+"Indonesia",1980,"20--39","Female",5.14
+"Indonesia",1985,"20--39","Female",5.87
+"Indonesia",1990,"20--39","Female",6.62
+"Indonesia",1995,"20--39","Female",7.37
+"Indonesia",2000,"20--39","Female",8.12
+"Indonesia",2005,"20--39","Female",8.79
+"Indonesia",2010,"20--39","Female",9.34
+"Indonesia",2015,"20--39","Female",9.92
+"Malaysia",1950,"20--39","Female",0.96
+"Malaysia",1955,"20--39","Female",1.32
+"Malaysia",1960,"20--39","Female",1.88
+"Malaysia",1965,"20--39","Female",2.64
+"Malaysia",1970,"20--39","Female",3.79
+"Malaysia",1975,"20--39","Female",5.16
+"Malaysia",1980,"20--39","Female",6.57
+"Malaysia",1985,"20--39","Female",7.85
+"Malaysia",1990,"20--39","Female",8.97
+"Malaysia",1995,"20--39","Female",9.97
+"Malaysia",2000,"20--39","Female",10.95
+"Malaysia",2005,"20--39","Female",11.81
+"Malaysia",2010,"20--39","Female",12.45
+"Malaysia",2015,"20--39","Female",12.83
+"Philippines",1950,"20--39","Female",4.39
+"Philippines",1955,"20--39","Female",4.93
+"Philippines",1960,"20--39","Female",5.45
+"Philippines",1965,"20--39","Female",5.95
+"Philippines",1970,"20--39","Female",6.46
+"Philippines",1975,"20--39","Female",7.01
+"Philippines",1980,"20--39","Female",7.55
+"Philippines",1985,"20--39","Female",8.04
+"Philippines",1990,"20--39","Female",8.43
+"Philippines",1995,"20--39","Female",8.78
+"Philippines",2000,"20--39","Female",9.08
+"Philippines",2005,"20--39","Female",9.47
+"Philippines",2010,"20--39","Female",9.87
+"Philippines",2015,"20--39","Female",10.16
+"Thailand",1950,"20--39","Female",3.47
+"Thailand",1955,"20--39","Female",4.41
+"Thailand",1960,"20--39","Female",5.37
+"Thailand",1965,"20--39","Female",6.24
+"Thailand",1970,"20--39","Female",6.99
+"Thailand",1975,"20--39","Female",7.6
+"Thailand",1980,"20--39","Female",8.1
+"Thailand",1985,"20--39","Female",8.53
+"Thailand",1990,"20--39","Female",8.96
+"Thailand",1995,"20--39","Female",9.35
+"Thailand",2000,"20--39","Female",9.81
+"Thailand",2005,"20--39","Female",10.29
+"Thailand",2010,"20--39","Female",10.83
+"Thailand",2015,"20--39","Female",11.47
+"Viet Nam",1950,"20--39","Female",1.53
+"Viet Nam",1955,"20--39","Female",1.94
+"Viet Nam",1960,"20--39","Female",2.33
+"Viet Nam",1965,"20--39","Female",2.85
+"Viet Nam",1970,"20--39","Female",3.6
+"Viet Nam",1975,"20--39","Female",4.61
+"Viet Nam",1980,"20--39","Female",5.54
+"Viet Nam",1985,"20--39","Female",6.29
+"Viet Nam",1990,"20--39","Female",6.79
+"Viet Nam",1995,"20--39","Female",7.13
+"Viet Nam",2000,"20--39","Female",7.36
+"Viet Nam",2005,"20--39","Female",7.62
+"Viet Nam",2010,"20--39","Female",8.06
+"Viet Nam",2015,"20--39","Female",8.68
