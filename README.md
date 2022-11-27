@@ -7,6 +7,6 @@ In this project, I investigated into the relationship between fertility decline 
 Data I used in my analysis comes from **Wittgenstein Centre for Demography and Global Human Capital** (Available at [this link](http://dataexplorer.wittgensteincentre.org/wcde-v2/).)
 All my data can be found in the `data` folder. You can also download the data on the website I provide above by scrolling down the indicator type, indicator, country list, sex, and year.
 
-You can read my report [here]().
+You can read my report [here](https://github.com/Jade-Zhou/east_asia_fertility/blob/main/east_asia_fertility.md).
 
-The Rmd file can be accessed [here]().
+The Rmd file can be accessed [here](https://github.com/Jade-Zhou/east_asia_fertility/blob/main/east_asia_fertility.Rmd).
